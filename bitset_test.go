@@ -7,7 +7,7 @@ package bitset_test
 import (
 	"testing"
 
-	. "github.com/jrick/bitset"
+	. "github.com/decred/bitset"
 )
 
 type namedBitSet struct {
